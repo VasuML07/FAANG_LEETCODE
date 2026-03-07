@@ -155,17 +155,6 @@ After completing problems, update the badges in this README:
 - Change the color from `red` → `yellow` → `green` based on completion percentage
 - Update the progress numbers in the badges
 
-### Color Guide for Badges
-
-| Completion | Color | Example |
-|------------|-------|---------|
-| 0% - 25% | red | `![Progress](https://img.shields.io/badge/Pattern-0%2F20-red)` |
-| 26% - 50% | orange | `![Progress](https://img.shields.io/badge/Pattern-5%2F20-orange)` |
-| 51% - 75% | yellow | `![Progress](https://img.shields.io/badge/Pattern-10%2F20-yellow)` |
-| 76% - 99% | green | `![Progress](https://img.shields.io/badge/Pattern-15%2F20-green)` |
-| 100% | brightgreen | `![Progress](https://img.shields.io/badge/Pattern-20%2F20-brightgreen)` |
-
----
 
 ## 🤝 Contributing
 
