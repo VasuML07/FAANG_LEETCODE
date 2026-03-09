@@ -1,6 +1,6 @@
 # 🎯 Top 350 LeetCode DSA Problems by Pattern
 
-![Progress](https://img.shields.io/badge/Progress-1%2F350-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-2%2F350-red?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-1%2F88-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-1%2F202-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0%2F60-red?style=flat-square)
