@@ -1,8 +1,8 @@
 # 🎯 Top 350 LeetCode DSA Problems by Pattern
 
-![Progress](https://img.shields.io/badge/Progress-3%2F350-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-4%2F350-red?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-1%2F88-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-2%2F202-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-3%2F202-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0%2F60-red?style=flat-square)
 
 A curated list of top 350 LeetCode Data Structures and Algorithms problems organized by common patterns. Mastering these patterns will help you recognize and solve similar problems efficiently.
@@ -11,7 +11,7 @@ A curated list of top 350 LeetCode Data Structures and Algorithms problems organ
 
 | Pattern | Progress | Badge |
 |---------|----------|-------|
-| [01. Two Pointers](patterns/01-two-pointers.md) | 3/20 | ![Two Pointers](https://img.shields.io/badge/Two_Pointers-3%2F20-red) |
+| [01. Two Pointers](patterns/01-two-pointers.md) | 4/20 | ![Two Pointers](https://img.shields.io/badge/Two_Pointers-4%2F20-red) |
 | [02. Sliding Window](patterns/02-sliding-window.md) | 0/20 | ![Sliding Window](https://img.shields.io/badge/Sliding_Window-0%2F20-red) |
 | [03. Binary Search](patterns/03-binary-search.md) | 0/20 | ![Binary Search](https://img.shields.io/badge/Binary_Search-0%2F20-red) |
 | [04. Hash Map](patterns/04-hash-map.md) | 0/20 | ![Hash Map](https://img.shields.io/badge/Hash_Map-0%2F20-red) |
