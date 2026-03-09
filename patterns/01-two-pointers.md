@@ -10,7 +10,7 @@ The Two Pointers technique involves using two pointers to iterate through an arr
 | 2 | 3Sum | [Link](https://leetcode.com/problems/3sum/) | 🟡 Medium | [done ] |
 | 3 | 3Sum Closest | [Link](https://leetcode.com/problems/3sum-closest/) | 🟡 Medium | [ done] |
 | 4 | 3Sum Smaller | [Link](https://leetcode.com/problems/3sum-smaller/) | 🟡 Medium | [ ] |
-| 5 | 4Sum | [Link](https://leetcode.com/problems/4sum/) | 🟡 Medium | [ ] |
+| 5 | 4Sum | [Link](https://leetcode.com/problems/4sum/) | 🟡 Medium | [done ] |
 | 6 | Container With Most Water | [Link](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | [ ] |
 | 7 | Trapping Rain Water | [Link](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | [ ] |
 | 8 | Valid Palindrome | [Link](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | [ ] |
@@ -30,5 +30,5 @@ The Two Pointers technique involves using two pointers to iterate through an arr
 ## Progress Tracking
 
 - **Total Problems:** 20
-- **Completed:** 3
-- **Remaining:** 17
+- **Completed:** 4
+- **Remaining:** 16
