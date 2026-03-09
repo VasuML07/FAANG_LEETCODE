@@ -7,7 +7,7 @@ The Two Pointers technique involves using two pointers to iterate through an arr
 | # | Problem Name | LeetCode Link | Difficulty | Status |
 |---|--------------|---------------|------------|--------|
 | 1 | Two Sum II - Input Array Is Sorted | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟢 Easy | [ done] |
-| 2 | 3Sum | [Link](https://leetcode.com/problems/3sum/) | 🟡 Medium | [ ] |
+| 2 | 3Sum | [Link](https://leetcode.com/problems/3sum/) | 🟡 Medium | [done ] |
 | 3 | 3Sum Closest | [Link](https://leetcode.com/problems/3sum-closest/) | 🟡 Medium | [ ] |
 | 4 | 3Sum Smaller | [Link](https://leetcode.com/problems/3sum-smaller/) | 🟡 Medium | [ ] |
 | 5 | 4Sum | [Link](https://leetcode.com/problems/4sum/) | 🟡 Medium | [ ] |
@@ -30,5 +30,5 @@ The Two Pointers technique involves using two pointers to iterate through an arr
 ## Progress Tracking
 
 - **Total Problems:** 20
-- **Completed:** 1
-- **Remaining:** 20
+- **Completed:** 2
+- **Remaining:** 18
